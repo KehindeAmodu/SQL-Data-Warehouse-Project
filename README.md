@@ -40,4 +40,19 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This Project is licensed under the MIT License
 
 ## About Me
+Results-driven IT Systems and Data Analyst with over 8 years of experience delivering solutions that connect data, systems, and business outcomes. I specialize in database administration, cloud migration, and data analytics, helping organizations streamline operations, improve decision-making, and strengthen data security.
 
+At Jaset Trading and Consulting Company (Canada), I lead cloud and analytics projects that optimize MySQL and Oracle databases, automate data pipelines, and develop real-time dashboards in Tableau and Power BI — driving measurable gains in performance, engagement, and cost savings.
+
+Previously at the Nigeria Social Insurance Trust Fund (NSITF), I spearheaded initiatives that transitioned legacy systems to Oracle Cloud, built scalable ETL processes, and enhanced reporting accuracy by 30%. My work consistently bridges the gap between technical performance and strategic value, ensuring every solution improves efficiency, compliance, and user experience.
+
+Core Competencies:
+☁️ Cloud Solutions (Oracle Cloud, Azure)
+🗃️ Database Administration (SQL Server, MySQL, Oracle)
+📊 Data Analytics & Visualization (Power BI, Tableau, SPSS)
+⚙️ Automation & ETL (Python, Apache Airflow, SSIS, ODI)
+🔐 Security & Compliance (Oracle Key Vault, Access Controls, Encryption)
+
+Passionate about leveraging technology to enhance efficiency and empower data-driven decisions across healthcare, government, and financial sectors.
+
+📩 Let’s connect if you’re exploring collaboration in digital transformation and analytics innovation.
